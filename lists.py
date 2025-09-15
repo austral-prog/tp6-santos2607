@@ -1,5 +1,3 @@
-
-
 def remove_elements(list_to_remove_elements):
     if list_to_remove_elements != '':
         if len(list_to_remove_elements) >= 6:
